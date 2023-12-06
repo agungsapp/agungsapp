@@ -2,7 +2,7 @@
 <h3 align="center">A freelance Developer based in Bandar Lampung, Indonesia.</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MERN**
 
 - 📫 How to reach me **agungsapp27@gmail.com**
 
