@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://agungsapp.github.io/](https://agungsapp.github.io/)
 
-- 💬 Ask me about **Laravel, CodeIgniter, React.**
+- 💬 Ask me about **Laravel, CodeIgniter, React, Next Js.**
 
 - 📫 How to reach me **agungsapp27@gmail.com**
 
