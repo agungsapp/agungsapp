@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agungsapp" alt="agungsapp" /></a> </p>
 
-- 🔭 I’m currently working on [PT. Tunas Dwipa Matra](https://genone.co.id/)
+- 🔭 I’m currently working on [PT. BPR Eka Bumi Artha](https://bankeka.co.id/)
 
 - 🌱 I’m currently learning **MERN Stack**
 
